@@ -50,6 +50,7 @@ trevco_test/
     └── ddl/
         └── create_table_ddl
 
+
 Data Sources
 
 The project ingests CSV files located in the csv/ folder:
