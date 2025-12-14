@@ -15,6 +15,9 @@ Postgres as the target relational database
 
 Folder Structure
 
+## Folder Structure
+
+```text
 trevco_test/
 ├── airflow/
 │   └── dags/
@@ -49,6 +52,7 @@ trevco_test/
 └── sql/
     └── ddl/
         └── create_table_ddl
+
 
 
 Data Sources
